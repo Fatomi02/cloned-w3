@@ -1,0 +1,1191 @@
+.Third-box{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.search-box{
+    height: 30px;
+}
+option{
+    height: 30px;
+    border-radius: 0%;
+}
+.atag{
+    text-decoration: none;
+    text-align: center;
+}
+.select{
+    height: 30px;
+}
+.button{
+    text-align: center;
+    height: 30px;
+    background-color: transparent;
+    border-color: rgb(221, 200, 200);
+}
+.logo{
+    margin-left: 50px;
+}
+.second{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 100px;
+    width: 500px;
+}
+.second li{
+    list-style: none;
+    padding: 0 4px;
+}
+nav{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+
+.section-div {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    padding-top: 100px;
+    min-width: 1200px;
+    height: 450px;
+    background: url(http://www.3u.com/img/banner_bg.png?v=001) repeat;
+    text-align: center;
+    /* position: absolute; */
+}
+.section-div h1{
+    line-height: 52px;
+    font-size: 20px;
+    color: #d5e3ff;
+}
+.section-div h1::selection{
+    background: #ff6060;
+    color: #fff;}
+.section-div h2{
+    margin-bottom: 30px;
+    line-height: 100px;
+    font-size: 62px;
+    color: #fff;
+    font-weight: bold;
+}
+.section-div h2::selection{
+    background: #ff6060;
+    color: #fff;}
+.section-banner{
+    padding-top: 320px;
+    height: 770px;
+    background: #4ca2ff url(	http://www.3u.com/img/banner_3ulogo.png?v=001) top center no-repeat;
+}
+span{
+    padding: 8px;
+}
+.section-banner p::selection{
+    background: #ff6060;
+    color: #fff;}
+a{
+    text-decoration: none;
+}
+.section-div a{
+    display: block;
+    margin: 0 auto;
+    width: 216px;
+    height: 48px;
+    border: 2px solid #83bfff;
+    border-radius: 26px;
+    line-height: 48px;
+    font-size: 20px;
+    color: #fff;
+}
+.section-div a:hover{
+    background-color: white;
+    color: blue;
+}
+.section-div p{
+    margin-top: 34px;
+    color: #d5e3ff;
+}
+.part{
+    background-color: white;
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    min-width: 80%;
+    height: 500px;
+}
+.part h1{
+    padding-top: 96px;
+    line-height: 74px;
+    text-align: center;
+    font-size: 34px;
+}
+.part h1::selection{
+    background: #ff6060;
+    color: #fff;}
+.part p{
+    line-height: 26px;
+    text-align: center;
+    font-size: 15px;
+    color: #555;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+}
+.part p::selection{
+    background: #ff6060;
+    color: #fff;}
+.information{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+    text-align: center;
+}
+.information a{
+    padding: 20px 20px 15px;
+}
+.information span{
+    display: block;
+    width: 100%;
+    height: 26px;
+    line-height: 26px;
+    font-size: 12px;
+    color: #999;
+    transition: 0.2s;
+}
+.information span::selection{
+    background: #ff6060;
+    color: #fff;}
+.information img{
+    overflow: clip;
+    height: 60px;
+    width: 60px;
+}
+body{
+    background-color: RGB(217,221,229);;
+}
+
+.Third-part-content h1{
+    padding-top: 96px;
+    line-height: 74px;
+    text-align: center;
+    font-size: 34px;
+}
+.Third-part-content h1::selection{
+    background: #ff6060;
+    color: #fff;}
+.Third-part-content p{
+    padding: 0%;
+    margin: 0;
+}
+.Third-part-content p::selection{
+    background: #ff6060;
+    color: #fff;}
+.Third-part-content{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    background: url(http://www.3u.com/img/home_store_bg.png);
+}
+.Phone-section{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    text-align: center;
+    background-color: white;
+}
+.Phone-section h1{
+    padding-top: 96px;
+    line-height: 74px;
+    text-align: center;
+    font-size: 34px;
+}
+.Phone-section h1::selection{
+    background: #ff6060;
+    color: #fff;}
+.Phone-section p{
+    line-height: 26px;
+    text-align: center;
+    font-size: 15px;
+    color: #555;
+    padding: 0;
+    margin: 0;
+}
+.Phone-section p::selection{
+    background: #ff6060;
+    color: #fff;}
+.Phone-section img{
+   margin-top: 100px;
+}
+.Iphone{
+    position: absolute;
+    left: 450px;
+    padding-top: 120px;
+}
+.Mini{
+    position: absolute;
+    right: 500px;
+    padding-top: 165px;
+}
+.Bottom{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: -160px;
+    height: 760px;
+    background: url(http://www.3u.com/img/home_tools_bg.png
+    );
+    position: relative;
+    z-index: 2;
+}
+.Bottom h1{
+    padding-top: 96px;
+    line-height: 74px;
+    text-align: center;
+    font-size: 34px;
+}
+.Bottom h1::selection{
+    background: #ff6060;
+    color: #fff;}
+.Bottom p{
+    line-height: 26px;
+    text-align: center;
+    font-size: 15px;
+    color: #555;
+    padding: 0;
+    margin: 0;
+}
+.Bottom p::selection{
+    background: #ff6060;
+    color: #fff;}
+.Home-tools{
+    padding-top: 40px;
+    margin: 50px auto 0;
+    width: 830px;
+    overflow: hidden;
+    display: block;
+    text-align: center;
+}
+.Home-tools a{
+    color: #555;
+    display: block;
+    float: left;
+    margin: 0 18px 6px;
+    width: 102px;
+    height: 130px;
+    background: none;
+    text-align: center;
+    transition: 0.2s;
+}
+.Home-tools span{
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    font-size: 10px;
+}
+.Home-tools span::selection{
+    background: #ff6060;
+    color: #fff;}
+
+.div-follow{
+    padding-top: 27px;
+    height: 52px;
+    width: 300px;
+    color: #d4e2ff;
+    display: flex;
+    flex-direction: row;
+}
+.div-follow a{
+    padding: 0 8px;
+}
+footer{
+    background-color: #007aff;
+}
+.combination-div{
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+ justify-content: space-between;
+}
+.a-link{
+    padding-top: 28px;
+    width: 600px;
+    text-align: center;
+}
+.a-link a{
+    color: white;
+    padding: 8px;
+}
+.a-link a::selection{
+    background: #ff6060;
+    color: #fff;
+}
+.Copyright{
+    font-size: 10px;
+    height: 80px;
+    width: 300px;
+    line-height: 80px;
+    text-align: right;
+    color: #d4e2ff;
+}
+.Copyright::selection{
+    background: #ff6060;
+    color: #fff;
+}
+.slogan{
+    padding-bottom: 20px;
+    padding-top: 25px;
+    border-top: 3px solid #0d81ff;
+    line-height: 24px;
+    text-align: center;
+    color: #b8d0ff;
+}
+
+
+.slogan p{
+    font-size: 10px;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+}
+.slogan p::selection{
+    background: #ff6060;
+    color: #fff;}
+
+
+    @media (max-width: 764px){
+        .Third-box{
+            display: flex;
+            flex-direction: row;
+            height: 20px;
+            margin-right: 0;
+        }
+        .search-box{
+            height: 30px;
+        }
+        option{
+            height: 30px;
+            border-radius: 0%;
+        }
+        .atag{
+            text-decoration: none;
+            text-align: center;
+        }
+        .select{
+            display: none;
+        }
+        .button{
+            display: none;
+            text-align: center;
+            height: 30px;
+            width: 70px;
+            background-color: transparent;
+            border-color: rgb(221, 200, 200);
+        }
+        .form-outline{
+            margin-top: 0px;
+            height: 20px;
+            width: 100px;
+        }
+        .logo{
+            width: 10px;
+            height: 20px;
+         margin-left: 0;
+        }
+        .logo img{
+            width: 50px;
+        }
+        .second{
+            margin-top: 10px;
+            display: flex;
+            flex-direction: row;
+            /* justify-content: space-between; */
+            margin-left: 60px;
+            width: 200px;
+            margin-right: 3px;
+        }
+        .second li{
+            font-size: 7px;
+        }
+        nav{
+            display: flex;
+            flex-direction: row;
+            height: 7.2%;
+        }
+        
+        .section-div {
+            margin-left: 0;
+            margin-right: 0;
+            padding-top: 10%;
+            width: 100%;
+            min-width: 100%;
+            height: 200px;
+            background: url(http://www.3u.com/img/banner_bg.png?v=001) repeat;
+            text-align: center;
+            /* position: absolute; */
+        }
+        .section-div h1{
+            line-height: 1rem;
+            font-size: 7px;
+            color: #d5e3ff;
+        }
+        .section-div h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .section-div h2{
+            margin-bottom: 30px;
+            line-height: 1rem;
+            font-size: 24px;
+            color: #fff;
+            font-weight: bold;
+        }
+        .section-div h2::selection{
+            background: #ff6060;
+            color: #fff;}
+        .section-banner{
+            width: 100%;
+            padding-top: 32%;
+            height: auto;
+            background: #4ca2ff url(http://www.3u.com/img/banner_3ulogo.png?v=001) top center no-repeat;
+        }
+        span{
+            padding: 8px;
+        }
+        .section-banner p::selection{
+            background: #ff6060;
+            color: #fff;}
+        a{
+            text-decoration: none;
+        }
+        .section-div a{
+            margin: 0 auto;
+            width: 120px;
+            height: 30px;
+            border: 2px solid #83bfff;
+            border-radius: 26px;
+            line-height: 30px;
+            font-size: 10px;
+            color: #fff;
+        }
+        .section-div a:hover{
+            background-color: white;
+            color: blue;
+        }
+        .section-div p{
+            margin-top: 10px;
+            color: #d5e3ff;
+            font-size: 7px;
+        }
+        .part{
+            text-align: center;
+            background-color: white;
+            min-width: 100%;
+            height: 230px;
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .part h1{
+            padding: 46px 0 10px;
+            line-height: 2px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .part h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .part p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 7px;
+            color: #555;
+            border: 0;
+            vertical-align: baseline;
+            margin: 0;
+            padding: 0;
+        }
+        .part p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .information{
+            justify-content: center;
+            display: flex;
+            margin-left: 0;
+            margin-right: 0;
+            flex-direction: row;
+            margin-top: 35px;
+            text-align: center;
+            width: 100%;
+            height: auto;
+        }
+        .information a{
+            padding: 10px 2px 10px;
+        }
+        .information span{
+            display: block;
+            height: 16px;
+            line-height: 16px;
+            font-size: 7px;
+            color: #999;
+            transition: 0.2s;
+            padding-bottom: 20px;
+        }
+        .information span::selection{
+            background: #ff6060;
+            color: #fff;}
+        .information img{
+            height: 30px;
+            width: 30px;
+        }
+        body{
+            background-color: white;
+        }
+
+        .Third-part-content h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Third-part-content h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Third-part-content p{
+            padding: 0%;
+            margin: 0;
+            font-size: 7px;
+        }
+        .Third-part-content p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Third-part-content{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            background: url(http://www.3u.com/img/home_store_bg.png);
+        }
+        .store-img{
+            width: 100%;
+        }
+        .Phone-section{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            text-align: center;
+            background-color: white;
+        }
+        .Phone-section h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Phone-section h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Phone-section p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 6.5px;
+            color: #555;
+            padding: 0;
+            margin: 0;
+        }
+        .Phone-section p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Phone-section img{
+         position: absolute;
+         left: 50%;
+         margin-top: 25px;
+
+        }
+        .Ipad{
+            margin-left: -70px;
+            z-index: 1;
+            height: 280px;
+            width: 150px;
+        }
+        .Iphone{
+            top: 1020px;
+            margin-left: -140px;
+            z-index: 2;
+            height: 280px;
+            width: 100px;
+        }
+        .Mini{
+            top: 1020px;
+            margin-left: 60px;
+            z-index: 2;
+            height: 280px;
+            width: 80px;
+        }
+        .Bottom{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            margin-top: 190px;
+            height: auto;
+            background: url(http://www.3u.com/img/home_tools_bg.png);
+            position: relative;
+            z-index: 2;
+        }
+        .Bottom h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Bottom h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Bottom p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 7px;
+            color: #555;
+            padding: 0;
+            margin: 0;
+        }
+        .Bottom p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Home-tools{
+            padding: 40px 0 5px;
+            margin: 10px 10% 0;
+            width: 80%;
+            overflow: hidden;
+            display: block;
+            text-align: center;
+
+        }
+        .Home-tools a{
+            color: #555;
+            display: block;
+            float: left;
+            margin: 0 10px 50px;
+            width: 32px;
+            height: 30px;
+            background: none;
+            text-align: center;
+            transition: 0.2s;
+        }
+        .Home-tools img{
+            height: 30px;
+            width: 30px;
+        }
+        .Home-tools span{
+            display: block;
+            line-height: 5px;
+            font-size: 5px;
+        }
+        .Home-tools span::selection{
+            background: #ff6060;
+            color: #fff;}
+        
+        .div-follow{
+            padding-top: 10px;
+            height: 30px;
+            width: 300px;
+            color: #d4e2ff;
+            display: flex;
+            flex-direction: row;
+        }
+        .div-follow p{
+            font-size: 7px;
+            padding-top: 10px;
+            line-height: 1px;
+        }
+        .div-follow a{
+            padding: 0 2px;
+
+
+        }
+        footer{
+            background-color: #007aff;
+        }
+        .combination-div{
+            height: auto;
+            margin-top: 0;
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+         justify-content: space-between;
+        }
+        .a-link{
+            margin-top: 0;
+            padding-top: 6px;
+            width: 400px;
+            text-align: center;
+        }
+        .a-link a{
+            font-size: 7px;
+            color: white;
+            padding: 4px;
+        }
+        .a-link a::selection{
+            background: #ff6060;
+            color: #fff;
+        }
+        .Copyright{
+            padding-top: 10px;
+            font-size: 5px;
+            height: auto;
+            width: 330px;
+            line-height: 20px;
+            text-align: right;
+            color: #d4e2ff;
+        }
+        .Copyright::selection{
+            background: #ff6060;
+            color: #fff;
+        }
+        .slogan{
+            padding-bottom: 20px;
+            padding-top: 25px;
+            border-top: 3px solid #0d81ff;
+            line-height: 24px;
+            text-align: center;
+            color: #b8d0ff;
+        }
+        
+        
+        .slogan p{
+            font-size: 7px;
+            border: 0;
+            line-height: 10px;
+            margin: 0;
+            padding: 0;
+        }
+        .slogan p::selection{
+            background: #ff6060;
+            color: #fff;}
+        
+    }
+
+
+
+    @media (765px <= width <= 1029px){
+        .Third-box{
+            margin-top: 30px;
+            display: flex;
+            flex-direction: row;
+            height: 20px;
+            margin-right: 0px;
+        }
+        .search-box{
+            height: 30px;
+        }
+        option{
+            height: 30px;
+            border-radius: 0%;
+        }
+        .atag{
+            text-decoration: none;
+            text-align: center;
+        }
+        .select{
+            height: 30px;
+        }
+        .button{
+            text-align: center;
+            height: 30px;
+            background-color: transparent;
+            border-color: rgb(221, 200, 200);
+        }
+        .logo{
+            margin-top: 0px;
+            margin-left: 30px;
+        }
+        .second{
+            margin-top: 40px;
+            text-align: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-left: 20px;
+            width: 300px;
+            margin-right: 10px;
+        }
+        .second li{
+            padding: 0 4px;
+            list-style: none;
+            font-size: 10px;
+        }
+        nav{
+            display: flex;
+            flex-direction: row;
+            height: 80px;
+        }
+        
+        .section-div {
+            margin-left: 0;
+            margin-right: 0;
+            padding-top: 10%;
+            width: 100%;
+            min-width: 100%;
+            height: 200px;
+            background: url(http://www.3u.com/img/banner_bg.png?v=001) repeat;
+            text-align: center;
+            /* position: absolute; */
+        }
+        .section-div h1{
+            line-height: 1rem;
+            font-size: 7px;
+            color: #d5e3ff;
+        }
+        .section-div h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .section-div h2{
+            margin-bottom: 30px;
+            line-height: 1rem;
+            font-size: 24px;
+            color: #fff;
+            font-weight: bold;
+        }
+        .section-div h2::selection{
+            background: #ff6060;
+            color: #fff;}
+        .section-banner{
+            width: 100%;
+            padding-top: 32%;
+            height: auto;
+            background: #4ca2ff url(http://www.3u.com/img/banner_3ulogo.png?v=001) top center no-repeat;
+        }
+        span{
+            padding: 8px;
+        }
+        .section-banner p::selection{
+            background: #ff6060;
+            color: #fff;}
+        a{
+            text-decoration: none;
+        }
+        .section-div a{
+            margin: 0 auto;
+            width: 120px;
+            height: 30px;
+            border: 2px solid #83bfff;
+            border-radius: 26px;
+            line-height: 30px;
+            font-size: 10px;
+            color: #fff;
+        }
+        .section-div a:hover{
+            background-color: white;
+            color: blue;
+        }
+        .section-div p{
+            margin-top: 10px;
+            color: #d5e3ff;
+            font-size: 7px;
+        }
+        .part{
+            text-align: center;
+            background-color: white;
+            min-width: 100%;
+            height: 230px;
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .part h1{
+            padding: 46px 0 10px;
+            line-height: 2px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .part h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .part p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 7px;
+            color: #555;
+            border: 0;
+            vertical-align: baseline;
+            margin: 0;
+            padding: 0;
+        }
+        .part p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .information{
+            justify-content: center;
+            display: flex;
+            margin-left: 0;
+            margin-right: 0;
+            flex-direction: row;
+            margin-top: 35px;
+            text-align: center;
+            width: 100%;
+            height: auto;
+        }
+        .information a{
+            padding: 10px 2px 10px;
+            width: 80px;
+        }
+        .information span{
+            display: block;
+            height: 16px;
+            line-height: 16px;
+            font-size: 7px;
+            color: #999;
+            transition: 0.2s;
+            padding-bottom: 20px;
+        }
+        .information span::selection{
+            background: #ff6060;
+            color: #fff;}
+        .information img{
+            height: 30px;
+            width: 30px;
+        }
+        body{
+            background-color: white;
+        }
+
+        .Third-part-content h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Third-part-content h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Third-part-content p{
+            padding: 0%;
+            margin: 0;
+            font-size: 7px;
+        }
+        .Third-part-content p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Third-part-content{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            background: url(http://www.3u.com/img/home_store_bg.png);
+        }
+        .store-img{
+            width: 100%;
+        }
+        .Phone-section{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            text-align: center;
+            background-color: white;
+        }
+        .Phone-section h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Phone-section h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Phone-section p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 6.5px;
+            color: #555;
+            padding: 0;
+            margin: 0;
+        }
+        .Phone-section p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Phone-section img{
+         position: absolute;
+         left: 50%;
+         margin-top: 25px;
+
+        }
+        .Ipad{
+            margin-left: -70px;
+            z-index: 1;
+            height: 280px;
+            width: 150px;
+        }
+        .Iphone{
+            top: 1290px;
+            margin-left: -140px;
+            z-index: 2;
+            height: 280px;
+            width: 100px;
+        }
+        .Mini{
+            top: 1290px;
+            margin-left: 60px;
+            z-index: 2;
+            height: 280px;
+            width: 80px;
+        }
+        .Bottom{
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            margin-top: 190px;
+            height: auto;
+            background: url(http://www.3u.com/img/home_tools_bg.png);
+            position: relative;
+            z-index: 2;
+        }
+        .Bottom h1{
+            padding-top: 36px;
+            line-height: 24px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .Bottom h1::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Bottom p{
+            line-height: 10px;
+            text-align: center;
+            font-size: 7px;
+            color: #555;
+            padding: 0;
+            margin: 0;
+        }
+        .Bottom p::selection{
+            background: #ff6060;
+            color: #fff;}
+        .Home-tools{
+            padding: 40px 0 5px;
+            margin: 10px 10% 0;
+            width: 80%;
+            overflow: hidden;
+            display: block;
+            text-align: center;
+
+        }
+        .Home-tools a{
+            color: #555;
+            display: block;
+            float: left;
+            margin: 0 10px 50px;
+            width: 75px;
+            height: 30px;
+            background: none;
+            text-align: center;
+            transition: 0.2s;
+        }
+        .Home-tools img{
+            height: 30px;
+            width: 30px;
+        }
+        .Home-tools span{
+            display: block;
+            line-height: 5px;
+            font-size: 5px;
+        }
+        .Home-tools span::selection{
+            background: #ff6060;
+            color: #fff;}
+        
+        .div-follow{
+            padding-top: 10px;
+            height: 30px;
+            width: 300px;
+            color: #d4e2ff;
+            display: flex;
+            flex-direction: row;
+        }
+        .div-follow p{
+            font-size: 7px;
+            padding-top: 10px;
+            line-height: 1px;
+        }
+        .div-follow a{
+            padding: 0 2px;
+
+
+        }
+        footer{
+            background-color: #007aff;
+        }
+        .combination-div{
+            height: auto;
+            margin-top: 0;
+            margin-left: 0;
+            margin-right: 0;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+         justify-content: space-between;
+        }
+        .a-link{
+            margin-top: 0;
+            padding-top: 6px;
+            width: 400px;
+            text-align: center;
+        }
+        .a-link a{
+            font-size: 7px;
+            color: white;
+            padding: 4px;
+        }
+        .a-link a::selection{
+            background: #ff6060;
+            color: #fff;
+        }
+        .Copyright{
+            padding-top: 10px;
+            font-size: 5px;
+            height: auto;
+            width: 330px;
+            line-height: 20px;
+            text-align: right;
+            color: #d4e2ff;
+        }
+        .Copyright::selection{
+            background: #ff6060;
+            color: #fff;
+        }
+        .slogan{
+            padding-bottom: 20px;
+            padding-top: 25px;
+            border-top: 3px solid #0d81ff;
+            line-height: 24px;
+            text-align: center;
+            color: #b8d0ff;
+        }
+        
+        
+        .slogan p{
+            font-size: 7px;
+            border: 0;
+            line-height: 10px;
+            margin: 0;
+            padding: 0;
+        }
+        .slogan p::selection{
+            background: #ff6060;
+            color: #fff;}
+        
+    }
+   
